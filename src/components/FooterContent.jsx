@@ -1,6 +1,6 @@
 function FooterContent() {
     return (
-        <div className="footerContent">
+        <div>
             <h2 className="footerContentTitle">Content</h2>
             <p className="footerContentText">
                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
