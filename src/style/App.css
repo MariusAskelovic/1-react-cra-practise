@@ -1,0 +1,28 @@
+body {
+  background-color: #f1f1f1;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 25px;
+}
+.headerTop {
+  background-color: #fff;
+  height: 100px;
+}
+.headerLogo {
+  height: 100%;
+  padding: 10px;
+}
+.headerNav {
+  background-color: #183241;
+  color: white;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+.headerUl {
+  display: flex;
+  gap: 30px;
+}
