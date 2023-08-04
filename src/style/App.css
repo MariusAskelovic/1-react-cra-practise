@@ -2,6 +2,7 @@ body {
   background-color: #f1f1f1;
 }
 
+/* Header */
 .header {
   display: flex;
   flex-direction: column;
@@ -25,4 +26,18 @@ body {
 .headerUl {
   display: flex;
   gap: 30px;
+}
+
+/* Hero */
+.heroBg {
+  background-color: #aeb936;
+  height: 470px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heroImg {
+  font-size: 56px;
+  font-weight: lighter;
+  color: white;
 }
