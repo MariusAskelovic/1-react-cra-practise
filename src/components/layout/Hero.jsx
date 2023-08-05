@@ -1,9 +1,9 @@
 function Hero() {
-  return (
-    <div className='heroBg'>
-      <img className='heroImg' src='#' alt='Header Image' />
-    </div>
-  );
+    return (
+        <div className='heroBg'>
+            <h2 className="heroText">Header Image</h2>
+        </div>
+    );
 }
 
 export default Hero;
